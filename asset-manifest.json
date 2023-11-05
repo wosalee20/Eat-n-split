@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "//wosalee20.github.io/Eat-n-split/static/css/main.6979bcae.css",
+    "main.js": "//wosalee20.github.io/Eat-n-split/static/js/main.dd69bb85.js",
+    "index.html": "//wosalee20.github.io/Eat-n-split/index.html",
+    "main.6979bcae.css.map": "//wosalee20.github.io/Eat-n-split/static/css/main.6979bcae.css.map",
+    "main.dd69bb85.js.map": "//wosalee20.github.io/Eat-n-split/static/js/main.dd69bb85.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6979bcae.css",
+    "static/js/main.dd69bb85.js"
+  ]
+}
